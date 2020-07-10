@@ -5,6 +5,9 @@
 - `nexus 6p`安卓手机(已root)
 - `安卓6.0`
 
+## 说明
+- test开头为学习测试
+
 
 ## 学习资料
 - [反编译系列文章](https://github.com/locoz666/spider-article)
