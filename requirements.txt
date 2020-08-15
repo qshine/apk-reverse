@@ -12,7 +12,7 @@ Flask==1.1.2
 frida==12.10.4
 frida-tools==8.0.1
 idna==2.8
-ipython==7.6.1
+ipython==7.17.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.14.1
