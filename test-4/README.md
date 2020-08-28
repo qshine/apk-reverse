@@ -7,10 +7,15 @@ frida -U --no-pause com.yaotong.crackme -l hook_java.js
 
 ### 通过py脚本执行
 ```
-python main1.py
+python hook_java.py
 ```
 
 ### hook启动时的onCreate方法
 ```
-python main2.py
+python hook_oncreate.py
+```
+
+### hook native方法
+```
+python hook_native.py
 ```
