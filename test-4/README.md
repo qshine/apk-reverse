@@ -19,3 +19,9 @@ python hook_oncreate.py
 ```
 python hook_native.py
 ```
+
+
+### 拿出so文件
+```
+apktool d AliCrackme.apk
+```
